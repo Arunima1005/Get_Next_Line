@@ -1,0 +1,5 @@
+Hi
+This is Arunima
+I live in Netherland
+How are you?
+I am learning C and doing get next line.
